@@ -70,7 +70,10 @@ body {
     width: 33%;
     padding: 25px;
   }
-  
+  .flexContainer img {
+    width: 100px;
+    height: auto;
+  }
   /* My Work Section */
   .myWork {
     padding: 60px 30px;
