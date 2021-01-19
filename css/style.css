@@ -53,7 +53,7 @@ body {
   }
   footer li {
     display: inline-block;
-    padding: 0px 7px;
+    padding: 0px 10px;
   }
   .heading {
     text-align: center;
@@ -70,7 +70,10 @@ body {
     width: 33%;
     padding: 25px;
   }
-  
+  .flexContainer img {
+    width: 400px;
+    height: auto;
+  }
   /* My Work Section */
   .myWork {
     padding: 60px 30px;
